@@ -2,4 +2,4 @@ alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n'
 
 should_end = False
 while not should_end:
-    text = input("введи сообщеие")
+    text = input("введи сообщение")

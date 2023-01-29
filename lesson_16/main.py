@@ -60,21 +60,21 @@
 #     print("ссылка добавлена вот её код ->", d[silka])
 
 # задача 4
-import math
-a = 10
-b = 5
-y1 = lambda a, b : b - a
-print(y1(a, b))
-
-y2 = lambda a, b : b + a
-
-y3 = lambda a, b : b * a
-
-y4 = lambda a, b : b / a
-
-y5 = lambda a,b: a / b
-
-mod = lambda print(logarifm(b, a))x : -x if x<0 else x
-print(mod(-5))
-
-logarifm = lambda a, b : math.log(b, a)
+# import math
+# a = 10
+# b = 5
+# y1 = lambda a, b : b - a
+# print(y1(a, b))
+#
+# y2 = lambda a, b : b + a
+#
+# y3 = lambda a, b : b * a
+#
+# y4 = lambda a, b : b / a
+#
+# y5 = lambda a,b: a / b
+#
+# mod = lambda print(logarifm(b, a))x : -x if x<0 else x
+# print(mod(-5))
+#
+# logarifm = lambda a, b : math.log(b, a)
